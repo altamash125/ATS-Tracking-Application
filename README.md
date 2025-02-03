@@ -47,4 +47,4 @@ The **Resume Expert** Streamlit application stands as a significant tool in brid
 
 ---
 
-*Created by koushik*
+*Created by Altamash Raza*
